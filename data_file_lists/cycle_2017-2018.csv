@@ -1,0 +1,122 @@
+variable_name,sas_label,variable_description,data_file_name,component_link
+SEQN,Respondent sequence number,Respondent sequence number.,Demographic Variables and Sample Weights (DEMO_J),2017-2018 Demographics
+SEQN,Respondent sequence number,Respondent sequence number.,"Dietary Interview - Total Nutrient Intakes, First Day (DR1TOT_J)",2017-2018 Dietary
+SEQN,Respondent sequence number,Respondent sequence number.,"Dietary Interview - Total Nutrient Intakes, Second Day (DR2TOT_J)",2017-2018 Dietary
+SEQN,Respondent sequence number,Respondent sequence number.,"Dietary Interview - Individual Foods, First Day (DR1IFF_J)",2017-2018 Dietary
+SEQN,Respondent sequence number,Respondent sequence number.,"Dietary Interview - Individual Foods, Second Day (DR2IFF_J)",2017-2018 Dietary
+SEQN,Respondent sequence number,Respondent sequence number.,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, First Day (DS1IDS_J)",2017-2018 Dietary
+SEQN,Respondent sequence number,Respondent sequence number.,Dietary Supplement Use 30-Day - Total Dietary Supplements (DSQTOT_J),2017-2018 Dietary
+SEQN,Respondent sequence number,Respondent sequence number.,"Dietary Supplement Use 24-Hour - Individual Dietary Supplements, Second Day (DS2IDS_J)",2017-2018 Dietary
+SEQN,Respondent sequence number,Respondent sequence number.,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, First Day (DS1TOT_J)",2017-2018 Dietary
+SEQN,Respondent sequence number,Respondent sequence number.,"Dietary Supplement Use 24-Hour - Total Dietary Supplements, Second Day (DS2TOT_J)",2017-2018 Dietary
+SEQN,Respondent sequence number,Respondent sequence number.,Dietary Supplement Use 30-Day - Individual Dietary Supplements (DSQIDS_J),2017-2018 Dietary
+SEQN,Respondent sequence number,Respondent sequence number.,Blood Pressure (BPX_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number.,Body Measures (BMX_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number.,Oral Health - Dentition (OHXDEN_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number.,Oral Health - Recommendation of Care (OHXREF_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number.,Dual-Energy X-ray Absorptiometry - Femur (DXXFEM_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number,Dual-Energy X-ray Absorptiometry - Whole Body (DXX_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number.,Dual-Energy X-ray Absorptiometry - Spine (DXXSPN_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number.,Liver Ultrasound Transient Elastography (LUX_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number.,Dual-Energy X-ray Absorptiometry - Android/Gynoid Measurements (DXXAG_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number.,Blood Pressure - Oscillometric Measurements (BPXO_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number.,Audiometry (AUX_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number.,Audiometry - Acoustic Reflex (AUXAR_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number.,Audiometry - Tympanometry (AUXTYM_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number.,Audiometry - Wideband Reflectance (AUXWBR_J),2017-2018 Examination
+SEQN,Respondent sequence number,Respondent sequence number.,Urine Flow Rate (UCFLOW_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Fasting Questionnaire (FASTQX_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Glycohemoglobin (GHB_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Albumin & Creatinine - Urine (ALB_CR_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Urine Pregnancy Test (UCPREG_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,HIV Antibody Test (HIV_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Hepatitis A (HEPA_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Hepatitis B: Surface Antibody (HEPB_S_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,"Hepatitis B: Core antibody, Surface antigen, and Hepatitis D antibody (HEPBD_J)",2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,"Hepatitis C: RNA (HCV-RNA), Confirmed Antibody (INNO-LIA), & Genotype (HEPC_J)",2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Hepatitis E: IgG & IgM Antibodies (HEPE_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Complete Blood Count with 5-Part Differential (CBC_J),2017-2018 Laboratory
+SEQN,Respondent Sequence Number,Respondent Sequence Number,High-Sensitivity C-Reactive Protein (HSCRP_J),2017-2018 Laboratory
+SEQN,Respondent Sequence Number,Respondent Sequence Number,Cholesterol - Total (TCHOL_J),2017-2018 Laboratory
+SEQN,Respondent Sequence Number,Respondent Sequence Number,Cholesterol - High - Density Lipoprotein (HDL) (HDL_J),2017-2018 Laboratory
+SEQN,Respondent Sequence Number,Respondent Sequence Number,Standard Biochemistry Profile (BIOPRO_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Iron Status - Serum (FETIB_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,"Lead, Cadmium, Total Mercury, Selenium, & Manganese - Blood (PBCD_J)",2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Chromium & Cobalt (CRCO_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,"Mercury: Inorganic, Ethyl and Methyl - Blood (IHGEM_J)",2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Cytomegalovirus IgG & IgM Antibodies - Serum (CMV_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Plasma Fasting Glucose (GLU_J),2017-2018 Laboratory
+SEQN,Respondent Sequence Number,Respondent sequence number,Cotinine and Hydroxycotinine - Serum (COT_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Insulin (INS_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Ferritin (FERTIN_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Vitamin C (VIC_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides (TRIGLY_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Folate - RBC (FOLATE_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Folate Forms - Total & Individual - Serum (FOLFMS_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Arsenics - Speciated - Urine (UAS_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Arsenic - Total - Urine (UTAS_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Metals - Urine (UM_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Chromium - Urine (UCM_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Mercury: Inorganic - Urine (UHG_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Nickel - Urine (UNI_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Iodine - Urine (UIO_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood (VOCWB_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Perfluoroalkyl and Polyfluoroalkyl Substances (PFAS_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Phthalates and Plasticizers Metabolites - Urine (PHTHTE_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Perfluoroalkyl and Polyfluoroalkyl Substances (Surplus) (SSPFAS_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Transferrin Receptor (TFR_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,"Vitamin A, Vitamin E & Carotenoids (VITAEC_J)",2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Organophosphate Insecticides - Dialkyl Phosphate Metabolites - Urine (OPD_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Flame Retardants - Urine (FR_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,"Cotinine, Hydroxycotinine, & Other Nicotine Metabolites and Analogs - Urine (UCOT_J)",2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Vitamin D (VID_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,"Perchlorate, Nitrate & Thiocyanate - Urine (PERNT_J)",2017-2018 Laboratory
+SEQN,Respondent Sequence Number,Respondent Sequence Number,Volatile Organic Compound (VOC) Metabolites - Urine (UVOC_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Volatile Organic Compound (VOC) Metabolites II - Urine (Surplus) (SSUVOC_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number,Ethylene Oxide (ETHOX_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Flame Retardants - Urine (Surplus) (SSFR_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Glyphosate (GLYP) - Urine (Surplus) (SSGLYP_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Alpha-1-Acid Glycoprotein - Serum (Surplus) (SSAGP_J),2017-2018 Laboratory
+SEQN,Respondent sequence number,Respondent sequence number.,Blood Pressure & Cholesterol (BPQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Hospital Utilization & Access to Care (HUQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Hepatitis (HEQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Cardiovascular Health (CDQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Physical Activity - Youth (PAQY_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Physical Activity (PAQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Immunization (IMQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Health Insurance (HIQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Disability (DLQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Diabetes (DIQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Physical Functioning (PFQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Smoking - Recent Tobacco Use (SMQRTU_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Smoking - Household Smokers (SMQFAM_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Smoking - Secondhand Smoke Exposure (SMQSHS_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Smoking - Cigarette Use (SMQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Medical Conditions (MCQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Oral Health (OHQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Current Health Status (HSQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Housing Characteristics (HOQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Dermatology (DEQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Income (INQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Acculturation (ACQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Reproductive Health (RHQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Sleep Disorders (SLQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number,Occupation (OCQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Mental Health - Depression Screener (DPQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Drug Use (DUQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Early Childhood (ECQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Osteoporosis (OSQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Kidney Conditions - Urology (KIQ_U_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Consumer Behavior (CBQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Diet Behavior & Nutrition (DBQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Prescription Medications (RXQ_RX_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Weight History (WHQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Weight History - Youth (WHQMEC_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Preventive Aspirin Use (RXQASA_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Audiometry (AUQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Pesticide Use (PUQMEC_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Alcohol Use (ALQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Volatile Toxicant (VTQ_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Consumer Behavior Phone Follow-up Module - Child (CBQPFC_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Consumer Behavior Phone Follow-up Module - Adult (CBQPFA_J),2017-2018 Questionnaire
+SEQN,Respondent sequence number,Respondent sequence number.,Food Security (FSQ_J),2017-2018 Questionnaire
